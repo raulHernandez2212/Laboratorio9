@@ -1,7 +1,8 @@
 #contenedorPadre {
     width: 400px;
-    border-radius: color red 15px;
+    border-radius: color red 50px;
     background-color: greenyellow;
+    border-style: solid;
     height: 400px;
     background-color: #f55353;
   }
