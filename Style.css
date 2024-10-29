@@ -1,0 +1,10 @@
+#contenedorPadre {
+    width: 400px;
+    height: 400px;
+    background-color: #f55353;
+  }
+  #contenedorHijo {
+    width: 100px;
+    height: 100px;
+    background-color: #feb139;
+  }
